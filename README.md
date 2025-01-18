@@ -45,3 +45,9 @@ The provided SQL database contains the following tables:
 
 This project emphasizes efficient data handling, insightful reporting, and dynamic query generation. It showcases the ability to leverage SQL for robust data analysis, tailored for a business context involving sales performance and profitability assessment.
 
+## Database Access
+
+To access the SQL database used in this project, download it using the link below:
+
+[Download Atliq Sales Database](https://drive.google.com/uc?id=1ptEFNEdy0OQ85tDhT-iyy4sjXiwlNehZ&export=download)
+
