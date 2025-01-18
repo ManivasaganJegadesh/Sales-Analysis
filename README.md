@@ -1,38 +1,37 @@
 # SQL Sales Analysis Project
 
 ## Overview
-This project demonstrates a SQL-based analysis of sales data. It includes creating views, writing queries, generating reports, and building stored procedures to extract insights.
+This project focuses on analyzing sales data using SQL. It includes creating views, executing advanced queries, generating detailed reports, and building dynamic stored procedures to uncover valuable business insights.
 
 ## Features
-- Analysis of sales data aggregated by product, customer, and market.
-- Use of fiscal year and quarter calculations.
-- Pre-invoice and post-invoice discount handling.
-- Dynamic stored procedures to retrieve top markets and customers.
+- Comprehensive sales data analysis aggregated by product, customer, and market.
+- Implementation of fiscal year and quarter calculations for accurate reporting.
+- Incorporation of pre-invoice and post-invoice discount adjustments.
+- Dynamic stored procedures for retrieving top-performing markets and customers.
 
 ## Dataset Information
+The provided SQL database contains the following tables:
 
-Given SQL database file contain following tables
-
-- dim_customer
-- dim_product
-- fact_forecast_monthly
-- fact_freight_cost
-- fact_gross_price
-- fact_manufacturing_cost
-- fact_post_invoice_deductions
-- fact_pre_invoice_deductions
-- fact_sales_monthly
+- `dim_customer`
+- `dim_product`
+- `fact_forecast_monthly`
+- `fact_freight_cost`
+- `fact_gross_price`
+- `fact_manufacturing_cost`
+- `fact_post_invoice_deductions`
+- `fact_pre_invoice_deductions`
+- `fact_sales_monthly`
 
 ## Tools Used
-- Programming Language : SQL
-- RDBMS : MySQL.
+- **Programming Language**: SQL
+- **RDBMS**: MySQL
 
-## insights generated:
-- Top 5 markets by net sales in 2021.
+## Insights Generated
+- Identification of the top 5 markets by net sales in the fiscal year 2021.
 - Monthly and yearly sales reports for Croma India.
-- Detailed customer and product-level sales analysis.
-- Total net sales for Atliq
-  
+- Detailed customer and product-level sales performance analysis.
+- Calculation of total net sales for Atliq.
 
-
+## Project Highlights
+This project emphasizes efficient data handling, insightful reporting, and dynamic query generation. It showcases the ability to leverage SQL for robust data analysis, tailored for a business context involving sales performance and profitability assessment.
 
