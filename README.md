@@ -1,4 +1,4 @@
-# SQL Sales Analysis Project
+# Sales Analysis
 
 ## Overview
 This project focuses on analyzing sales data using SQL. It includes creating views, executing advanced queries, generating detailed reports, and building dynamic stored procedures to uncover valuable business insights.
